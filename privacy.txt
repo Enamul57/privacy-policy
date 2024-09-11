@@ -1,0 +1,22 @@
+Privacy Policy for Everything
+
+At Everything, accessible from http://localhost:8000, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Everything and how we use it.
+
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [Your Email Address].
+
+Data We Collect:
+- Personal Data: When you use Facebook login, we may collect your name, email address, profile picture, and other data authorized by you.
+
+How We Use Your Data:
+- We use your data to provide the services of our application, including account creation, profile management, and login functionality.
+
+Security of Your Data:
+- We take the security of your data seriously and use industry-standard measures to protect it.
+
+Third-Party Services:
+- We do not share your data with third parties except for those necessary to provide our services.
+
+Contact Us:
+- If you have any questions, please contact us at 01784646464.
+
+This policy is effective as of 9/1/2024.
